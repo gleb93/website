@@ -89,7 +89,7 @@ GEM
     nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
     pg (0.18.1)
-    rack (1.6.0)
+    rack (1.6.12)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.0)
@@ -173,7 +173,7 @@ DEPENDENCIES
   mysql (~> 2.9.1)
   net-ldap
   pg (= 0.18.1)
-  rack (~> 1.6.0)
+  rack (~> 1.6.12)
   rails (= 4.2.0)
   rails_12factor (= 0.0.2)
   sass-rails (~> 4.0.1)
